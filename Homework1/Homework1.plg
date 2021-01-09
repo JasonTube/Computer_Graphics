@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Homework1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\84307\AppData\Local\Temp\RSPC57F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "__WINDOWS" /D "_MBCS" /Fp"Debug/Homework1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\84307\Desktop\vcjia6_gr\HOMEWORK\Homework1\SimpleGL.cpp"
+]
+Creating command line "cl.exe @C:\Users\84307\AppData\Local\Temp\RSPC57F.tmp" 
+Creating temporary file "C:\Users\84307\AppData\Local\Temp\RSPC580.tmp" with contents
+[
+opengl32.lib Glut32.lib Glaux.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Homework1.pdb" /debug /machine:I386 /out:"Debug/Homework1.exe" /pdbtype:sept 
+.\Debug\SimpleGL.obj
+]
+Creating command line "link.exe @C:\Users\84307\AppData\Local\Temp\RSPC580.tmp"
+<h3>Output Window</h3>
+Compiling...
+SimpleGL.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Homework1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
